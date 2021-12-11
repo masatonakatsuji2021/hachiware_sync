@@ -1,0 +1,27 @@
+{
+  "name": "hachiware_sync",
+  "version": "1.0.0",
+  "description": "A function to support synchronous processing instead of promise on javascript/Node.js.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/masatonakatsuji2021/hachiware_sync.git"
+  },
+  "keywords": [
+    "javascript",
+    "promise",
+    "sync"
+  ],
+  "author": "Nakatsuji Masato",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/masatonakatsuji2021/hachiware_sync/issues"
+  },
+  "homepage": "https://github.com/masatonakatsuji2021/hachiware_sync#readme"
+}
