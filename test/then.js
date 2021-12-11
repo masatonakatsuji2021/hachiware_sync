@@ -2,7 +2,7 @@ const sync = require("../");
 
 sync.then(function(resolve){
 
-	console.log("Sync Start!");
+	console.log("Sync Start! (then)");
 	setTimeout(resolve,1000);
 
 }).then(function(resolve){
