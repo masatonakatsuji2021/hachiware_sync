@@ -1,5 +1,7 @@
 # Hachiware_Sync
 
+<a href="https://github.com/masatonakatsuji2021/hachiware_sync/blob/master/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/masatonakatsuji2021/hachiware_sync"></a>
+
 ## # What's is this?
 
 A function to support synchronous processing instead of promise on javascript/Node.js.
