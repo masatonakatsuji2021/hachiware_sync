@@ -4,6 +4,8 @@
 <img alt="GitHub package.json version (subfolder of monorepo)" src="https://img.shields.io/github/package-json/v/masatonakatsuji2021/hachiware_sync">
 <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/masatonakatsuji2021/hachiware_sync">
 <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/masatonakatsuji2021/hachiware_sync">
+<img src="https://img.shields.io/badge/author-Nakatsuji%20Masato-brightgreen" alt="author Nakatsuji Masato">
+<img src="https://img.shields.io/badge/made%20in-Japan-brightgreen" alt="made in japan">
 
 ## # What's is this?
 
