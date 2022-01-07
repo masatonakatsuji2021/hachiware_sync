@@ -3,6 +3,7 @@
 <a href="https://github.com/masatonakatsuji2021/hachiware_sync/blob/master/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/masatonakatsuji2021/hachiware_sync"></a>
 <img alt="GitHub package.json version (subfolder of monorepo)" src="https://img.shields.io/github/package-json/v/masatonakatsuji2021/hachiware_sync">
 <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/masatonakatsuji2021/hachiware_sync">
+<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/masatonakatsuji2021/hachiware_sync">
 
 ## # What's is this?
 
