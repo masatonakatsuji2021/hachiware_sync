@@ -1,6 +1,6 @@
 {
   "name": "hachiware_sync",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A function to support synchronous processing instead of promise on javascript/Node.js.",
   "main": "index.js",
   "directories": {
