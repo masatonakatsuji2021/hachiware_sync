@@ -1,9 +1,15 @@
 /**
- * ====================================================================
+ * ===================================================================================================
  * Hachiware_Sync
+ * 
  * A new object for synchronization processing that replaces Promise
- * Author : Nakatsuji Masato 
- * ====================================================================
+ * 
+ * License : MIT License. 
+ * Since   : 2022.01.15
+ * Author  : Nakatsuji Masato 
+ * GitHub  : https://github.com/masatonakatsuji2021/Hachiware_Sync
+ * npm     : https://www.npmjs.com/package/Hachiware_Sync
+ * ===================================================================================================
  */
 
 module.exports = {
