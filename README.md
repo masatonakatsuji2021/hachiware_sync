@@ -252,5 +252,13 @@ sync.asyncWait([
 	} // <= completed callback
 );
 ```
+
 ---
-Author : Nakatsuji Masato.
+
+Hachiware_Sync
+ 
+License : MIT License.   
+Author  : Nakatsuji Masato  
+HP URL  : [https://hachiware-js.com/](https://hachiware-js.com/)  
+GitHub  : [https://github.com/masatonakatsuji2021/Hachiware_Sync](https://github.com/masatonakatsuji2021/Hachiware_Sync)  
+npm     : [https://www.npmjs.com/package/Hachiware_Sync](https://www.npmjs.com/package/Hachiware_Sync)
